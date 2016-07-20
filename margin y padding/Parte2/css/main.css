@@ -1,0 +1,9 @@
+div {
+	border:2px solid orange;
+	text-align: left;
+	font-size: 15px
+	height: 150px;
+	width: 300px;
+	padding: 20px 10px;
+	margin: 10px;
+}/* Agrega aqui tu CSS */

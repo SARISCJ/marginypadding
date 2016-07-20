@@ -1,0 +1,16 @@
+#bloque1 {
+	border:10px solid yellow;
+	text-align: center;
+	font-size: 15px
+	height: 150px;
+	width: 300px;
+	padding: 50px;
+}
+div {
+	border:10px solid yellow;
+	text-align: left;
+	font-size: 15px
+	height: 150px;
+	width: 300px;
+	padding: 50px;
+}/* Escribe aqui tu CSS */
